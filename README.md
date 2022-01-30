@@ -17,7 +17,7 @@ https://github.com/chongshengB/rt-n56u
 https://github.com/padavanonly/rt-n56u  
 https://github.com/immortalwrt/padavan  
 
-已测试的机型为MSG1500-7615，JCG-Q20，CR660x  
+已测试的机型为RM2100 
   
 固件默认wifi名称为机型_XX_mac后四位  
 wifi密码1234567890  
